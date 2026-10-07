@@ -24,7 +24,7 @@ like triangles, squares, circles and rectangles
 `def perimeter(a, b)` returns perimeter of a rectangle and depends on its width and height  
 
 ### triangle functions △  
-[Example](triangle.md)  
+[Example](docs/examples/triangle.md)  
 
 `def area(a, h)` returns area of a triangle by formula ***S = a * h / 2***  
 `def perimeter(a, b, c)` returns perimeter of a triangle by summing up all given sides  
